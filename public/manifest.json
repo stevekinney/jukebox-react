@@ -1,6 +1,6 @@
 {
-  "name": "An Example Application",
-  "short_name": "Example",
+  "name": "Packing List",
+  "short_name": "Packing List",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
